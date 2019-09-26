@@ -10,6 +10,8 @@
   <artifactId>tencentcloud-sdk-java</artifactId>
   <!-- go to https://search.maven.org/search?q=tencentcloud-sdk-java and get the latest version. -->
   <!-- 请到https://search.maven.org/search?q=tencentcloud-sdk-java查询最新版本 -->
-  <version>3.0.93</version> ![image](https://img.shields.io/maven-central/v/com.tencentcloudapi/tencentcloud-sdk-java?label=maven最新版本) 
+  <version>3.0.93</version> 
+  ![image](https://img.shields.io/maven-central/v/com.tencentcloudapi/tencentcloud-sdk-java?label=maven最新版本) 
   </dependency>
 
+asdfasdf
