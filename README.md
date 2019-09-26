@@ -12,6 +12,7 @@
       <!-- 请到https://search.maven.org/search?q=tencentcloud-sdk-java查询最新版本 -->
       <version>3.0.93</version> 
     </dependency>
-    ![image](https://img.shields.io/maven-central/v/com.tencentcloudapi/tencentcloud-sdk-java?label=maven最新版本) 
+
+![image](https://img.shields.io/maven-central/v/com.tencentcloudapi/tencentcloud-sdk-java?label=maven最新版本) 
 
 asdfasdf
