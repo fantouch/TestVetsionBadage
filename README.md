@@ -5,13 +5,13 @@
 1. 请访问[Maven官网](https://maven.apache.org/)下载对应系统Maven安装包进行安装。
 2. 为您的项目添加 Maven 依赖项，只需在 Maven pom.xml 添加以下依赖项即可。**注意这里的版本号只是举例,您可以在[Maven仓库](https://search.maven.org/search?q=tencentcloud-sdk-java)上找到最新的版本。**：
 
-  <dependency>
-  <groupId>com.tencentcloudapi</groupId>
-  <artifactId>tencentcloud-sdk-java</artifactId>
-  <!-- go to https://search.maven.org/search?q=tencentcloud-sdk-java and get the latest version. -->
-  <!-- 请到https://search.maven.org/search?q=tencentcloud-sdk-java查询最新版本 -->
-  <version>3.0.93</version> 
-  ![image](https://img.shields.io/maven-central/v/com.tencentcloudapi/tencentcloud-sdk-java?label=maven最新版本) 
-  </dependency>
+    <dependency>
+      <groupId>com.tencentcloudapi</groupId>
+      <artifactId>tencentcloud-sdk-java</artifactId>
+      <!-- go to https://search.maven.org/search?q=tencentcloud-sdk-java and get the latest version. -->
+      <!-- 请到https://search.maven.org/search?q=tencentcloud-sdk-java查询最新版本 -->
+      <version>3.0.93</version> 
+    </dependency>
+    ![image](https://img.shields.io/maven-central/v/com.tencentcloudapi/tencentcloud-sdk-java?label=maven最新版本) 
 
 asdfasdf
